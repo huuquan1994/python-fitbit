@@ -23,3 +23,6 @@ LINUX
    sudo pip install -r requirements/base.txt
 WINDOWS
    pip install -r requirements/base.txt
+
+Using Fitbit
+============
